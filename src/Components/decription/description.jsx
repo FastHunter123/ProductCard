@@ -1,7 +1,7 @@
 import React from "react";
 import s from './description.module.css'
 
-const description = () => {
+const Description = () => {
     return (
         <div>
             <div className={s.newPrice}>
@@ -23,6 +23,6 @@ const description = () => {
             </div>
         </div>
     )
-}
+};
 
-export default description;
+export default Description;

@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Background from './Components/Background';
 import s from './App.css'
+import ProductCard from './Components/productCard';
+
 
 const App = () => {
   return (
     <div className={s.main}>
-      <Background />
+      <ProductCard />
     </div>
   );
 }

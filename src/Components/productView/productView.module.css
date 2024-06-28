@@ -1,0 +1,28 @@
+.productImage{
+    width: 444px;
+    height: 368px;
+    background-color:#ECEAEB;
+    padding: 14px;
+    border-radius: 15px;
+    position: absolute;
+    top: 311px;
+    left: 960.5px;
+    transform: translate(-50%, -50%);
+}
+
+.productImage img{
+    width: 420px;
+    height: 320px;
+    position: absolute;
+    left: 20px;
+    top: 45px;
+}
+
+.quickView{
+    position: absolute;
+    top: 530px;
+    left: 960.5px;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-style: italic;
+}

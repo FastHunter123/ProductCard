@@ -40,3 +40,10 @@
     width: 30px;
     height: 30px;
 }
+
+.reviews{
+    position:absolute;
+    top: 720px;
+    left: 770px;
+    font-size: 19px;
+}
