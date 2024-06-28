@@ -1,0 +1,42 @@
+.newPrice{
+    position: absolute;
+    top: 608px;
+    left: 780px;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color:#A73AFD;
+}
+
+.oldPrice{
+    position: absolute;
+    top: 600px;
+    left: 850px;
+    transform: translate(-50%, -50%);
+    text-decoration: line-through;
+    font-size: 16px;
+    color: #808090;
+}
+
+.withWallet{
+    font-size:16px ;
+}
+
+.description{
+    word-break: break-all;
+    width: 460px;
+    position: absolute;
+    top: 650px;
+    left: 740px;
+    font-size: 19px;
+}
+
+.bonusImg{
+    position:absolute;
+    top: 720px;
+    left: 730px;
+}
+
+.bonusImg img{
+    width: 30px;
+    height: 30px;
+}
