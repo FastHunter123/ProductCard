@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'jura';
+  src: url('C:/card product/my-app/src/assets/Jura-VariableFont_wght.ttf') format('ttf');
+}
