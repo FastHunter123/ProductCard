@@ -8,10 +8,11 @@ const productCard = () => {
     return (
         <div>
             <div className={s.productCard}>
-                <div className={s.back}></div>
-                <ProductView />
-                <Description />
-                <DeliveryButton/>
+                <div className={s.back}>
+                    <ProductView />
+                    <Description />
+                    <DeliveryButton />
+                </div>
             </div>
         </div>
     )

@@ -16,7 +16,7 @@ const Description = () => {
                 памяти, 20ТБ SSD
             </div>
             <div className={s.bonusImg}>
-                <img src='https://cdn-icons-png.flaticon.com/512/3391/3391560.png' />
+                <img src='https://cdn-icons-png.flaticon.com/512/2883/2883375.png' />
             </div>
             <div className={s.reviews}>
                 3000 отзывов

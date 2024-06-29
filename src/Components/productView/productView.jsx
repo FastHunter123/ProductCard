@@ -8,7 +8,7 @@ const ProductView = () => {
                 <img src='https://imgpng.ru/d/laptop_PNG101815.png' alt="ТУТ ДОЛЖЕН БЫТЬ НОУТБУК" />
             </div>
             <div className={s.quickView}>
-                <h3>Быстрый просмотр</h3>
+                Быстрый просмотр
             </div>
         </div>
     )

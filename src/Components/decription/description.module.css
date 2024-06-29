@@ -1,44 +1,42 @@
 .newPrice{
-    position: absolute;
-    top: 608px;
-    left: 780px;
-    transform: translate(-50%, -50%);
+    top: 520px;
+    left: 56px;
     font-size: 25px;
     color:#A73AFD;
     font-family: "Jura", sans-serif;
+    position: absolute;
 }
 
 .oldPrice{
-    position: absolute;
-    top: 601px;
-    left: 860px;
-    transform: translate(-50%, -50%);
+    top: 528px;
+    left: 150px;
     text-decoration: line-through;
     font-size: 16px;
     color: #808090;
     font-family: "Jura", sans-serif;
+    position: absolute;
 }
-
 
 .withWallet{
     font-size:16px ;
     font-family: "Jura", sans-serif;
+    position: absolute;
+    width: 100px;
 }
 
 .description{
-    word-break: break-all;
     width: 470px;
     position: absolute;
-    top: 650px;
-    left: 730px;
-    font-size: 19px;
+    top: 600px;
+    left: 56px;
+    font-size: 16px;
     font-family: "Jura", sans-serif;
 }
 
 .bonusImg{
     position:absolute;
-    top: 720px;
-    left: 730px;
+    top: 650px;
+    left: 56px;
 }
 
 .bonusImg img{
@@ -48,8 +46,8 @@
 
 .reviews{
     position:absolute;
-    top: 720px;
-    left: 770px;
-    font-size: 19px;
+    top: 655px;
+    left: 90px;
+    font-size: 16px;
     font-family: "Jura", sans-serif;
 }
