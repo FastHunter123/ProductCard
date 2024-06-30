@@ -29,7 +29,7 @@
 }
 
 .quickView:hover {
-    font-weight: 600;
+    font-weight: 440;
     width: 300px;
     transition: 0.3s;
 }
